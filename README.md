@@ -1,7 +1,5 @@
 ```markdown
-# Paulo Barbosa
-
-## Olá pessoal 👋
+## Oi 👋, eu sou Parbosa Barbosa!
 Sou apaixonado por resolver problemas utilizando a programação.
 
 Sou desenvolvedor web na SETIC | Superintência Estadual de TIC-RO;
