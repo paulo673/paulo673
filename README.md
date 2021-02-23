@@ -4,7 +4,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 
 Sou desenvolvedor web na SETIC | Superintência Estadual de TIC-RO;
 
-Atualmente junto com meu time Defensores, estamos trabalhando em um sistema de licenciamento ambiental para o estado de Rondônia;
+Atualmente junto com meu time, estamos trabalhando em um sistema de licenciamento ambiental para o estado de Rondônia;
 
 Nesse projeto nós utilizamos .Net core, EF core, C#, SQL Server, JavaScript, Razor e integramos com algumas API's internas
 para emitir DARE, assinatura eletrônica, geração de documentos...;
