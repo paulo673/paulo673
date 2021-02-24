@@ -9,6 +9,6 @@ Atualmente junto com meu time, estamos trabalhando em um sistema de licenciament
 Nesse projeto nós utilizamos .Net core, EF core, C#, SQL Server, JavaScript, Razor e integramos com algumas API's internas
 para emitir DARE, assinatura eletrônica, geração de documentos...;
 
-Entusiasmado estudando ReactJS, Next.js, CSS e inglês;
+Entusiasmado estudante de ReactJS, Next.js, CSS e inglês;
 Além de constantemente revisar os conceitos básicos de OOP, SOLID...
 ```
